@@ -1,4 +1,4 @@
-# CS-310-Portfolio_Submission
+# CS-230-Portfolio_Submission
 
 The client was a gaming company called The Gaming Room. They wanted to design a web-based, team-based game app that would be cross-platform and able to render high-resolution images, manage player and team data, and ensure security and performance.
 
